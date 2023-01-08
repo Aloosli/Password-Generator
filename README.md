@@ -14,6 +14,10 @@ Click the "Generate Password" button to generate a new password. The generated p
 If you want to copy the generated password to your clipboard, simply click the "Copy to Clipboard" button.
 That's it! You now have a new, secure password that you can use to protect your online accounts.
 
+## Deployment
+
+https://aloosli.github.io/Password-Generator/
+
 
 Credits
 The Password Generator was created using JavaScript and the DOM API. It was designed and developed by Brad Traversy.https://www.udemy.com/course/50-projects-50-days/
